@@ -63,8 +63,7 @@ input, textarea{
 	color: #676767;
 	transition: border 0.5s;
 	border: solid 3px #98d4f3;	
-	box-sizing:border-box;
-	
+	box-sizing:border-box;	
 }
 input:focus, textarea:focus{
 	border: solid 3px #77bde0;	
@@ -86,9 +85,9 @@ input[type="submit"]{
 }
 
 input[type="submit"]:hover{
-	background-color: #e9e50c;
-	
+	background-color: #e9e50c;	
 }
+
 label{
 	font-size: 1.5em;
 	margin-top: 20px;
@@ -118,5 +117,5 @@ label{
     height: 100vh;
     overflow: hidden;
     margin: 0;
-  }
+  } 
   
